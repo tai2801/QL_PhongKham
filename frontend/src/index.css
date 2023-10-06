@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-clinic-50: #effaf8;
+  --color-clinic-100: #d7f2ee;
+  --color-clinic-500: #0e9594;
+  --color-clinic-600: #0b7a7c;
+  --color-clinic-700: #0a6265;
+  --font-sans: "Segoe UI", system-ui, sans-serif;
+}
+body { background: #f4f9f9; }
